@@ -1,7 +1,7 @@
 # UserChurn
 
 ### Abstract:
-Build a Predictive model to classify Churn user based on given features.
+Build a Predictive model to classify Churn user based on available features.
 
 ### Index of notebook:
 1. Data Processing
